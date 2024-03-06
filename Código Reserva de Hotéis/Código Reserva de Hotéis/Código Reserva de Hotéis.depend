@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1698532381 source:c:\users\home\documents\código do pim\código pim - reserva de hotéis\código reserva de hotéis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
